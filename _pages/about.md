@@ -11,7 +11,7 @@ Shanglin is a doctoral researcher with [Klaus-Robert Müller](https://scholar.go
 With over three years of experience in machine learning, Shanglin is dedicated to developing modern machine learning techniques for neuroimaging and quantum chemistry, while keeping interests in generic machine learning topics. Shanglin actively collaborates with world-leading labs in machine learning, neural engineering, and molecular dynamics. His work has also been recognized by industry partners.
 
 
-<h3>Key Publications</h3>
+<h4>Key Publications</h4>
 <ul>
 <li><p>
 <a href="https://openreview.net/forum?id=VSn4wLFd2p">EEG-Based Multimodal Learning via Hyperbolic Mixture-of-Curvature Experts</a><br />
