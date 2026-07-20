@@ -8,16 +8,10 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  # - title: "Publications"
-  #   url: /files/Shanglin_CV.pdf
+  - title: "Publications"
+    url: /publications/
 
-   - title: "Teaching"
-     url: /talks/    
-
-  - title: "Professional"
-    url: /teaching/          
-    
   - title: "CV"
-    url: https://fightlesliefigt.github.io/files/Shanglin_CV.pdf
+    url: /files/Shanglin_CV.pdf
     
 
