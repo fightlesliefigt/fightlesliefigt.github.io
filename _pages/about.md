@@ -43,7 +43,7 @@ Runhe Zhou, <b>Shanglin Li</b>, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Moto
 <ul>
 <li><p>
   <b>Doctoral Researcher</b> (05/2026–Present)<br>
-  Berlin Institute for the Foundations of Learning and Data, Germany<br>
+  Berlin Institute for the Foundations of Learning and Data (BIFOLD), Germany<br>
   Focus: AI for science<br>
   Reference: Prof. Dr. Klaus-Robert Müller –
   <a href="mailto:klaus-robert.mueller@tu-berlin.de">
@@ -65,7 +65,7 @@ Runhe Zhou, <b>Shanglin Li</b>, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Moto
 <ul>
 <li><p>
   <b>Associate Researcher</b> (04/2025–03/2026)<br>
-  RIKEN Center for Advanced Intelligence Project, Japan<br>
+  RIKEN Center for Advanced Intelligence Project (AIP), Japan<br>
   Focus: Machine learning for neuroimaging<br>
   Reference: Prof. Dr. Qibin Zhao –
   <a href="mailto:qibin.zhao@riken.jp">qibin.zhao@riken.jp</a>
