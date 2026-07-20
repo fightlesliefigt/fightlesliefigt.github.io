@@ -10,8 +10,7 @@ redirect_from:
 Shanglin is a doctoral researcher with [Klaus-Robert Müller](https://scholar.google.com/citations?user=jplQac8AAAAJ) at the Technical University of Berlin and a Research Associate with [Mitsuo Kawato](https://scholar.google.com/citations?user=lc7OkdAAAAAJ) at ATR Japan.
 With over three years of experience in machine learning, Shanglin is dedicated to developing modern machine learning techniques for neuroimaging and quantum chemistry, while keeping interests in generic machine learning topics. Shanglin actively collaborates with world-leading labs in machine learning, neural engineering, and molecular dynamics. 
 
-My research interests include geometric deep learning, multimodal neuroimaging, brain foundation models, machine learning force fields, molecular dynamics, and material discovery.
-
+His research interests include geometric deep learning, multimodal neuroimaging, brain foundation models, machine learning force fields, molecular dynamics, and material discovery.
 Researchers in related research fields are welcome to collaborate.
 
 
