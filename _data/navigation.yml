@@ -11,11 +11,12 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: https://fightlesliefigt.github.io/files/Shanglin_CV.pdf
 
     
   - title: "Professional Activities"
     url: /portfolio/
     
 
+
+  - title: "CV"
+    url: https://fightlesliefigt.github.io/files/Shanglin_CV.pdf
