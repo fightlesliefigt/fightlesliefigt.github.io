@@ -50,7 +50,6 @@ Runhe Zhou, <b>Shanglin Li</b>, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Moto
   Berlin Institute for the Foundations of Learning and Data (BIFOLD), Germany<br>
   Focus: AI for science<br>
   Reference: Prof. Dr. Klaus-Robert Müller 
-  </a>
 </p></li>
 </ul>
 
