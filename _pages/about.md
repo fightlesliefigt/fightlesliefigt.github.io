@@ -37,3 +37,32 @@ Runhe Zhou, <b>Shanglin Li</b>, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Moto
 <i><b>International Conference on  Learning Representations (ICLR), 2025.</b></i> 
 </p></li>
 </ul>
+
+<h3>Work Experience</h3>
+
+<p>
+  <b>Doctoral Researcher</b> (05/2026–Present)<br>
+  Berlin Institute for the Foundations of Learning and Data, Germany<br>
+  Focus: AI for science<br>
+  Reference: Prof. Dr. Klaus-Robert Müller –
+  <a href="mailto:klaus-robert.mueller@tu-berlin.de">
+    klaus-robert.mueller@tu-berlin.de
+  </a>
+</p>
+
+<p>
+  <b>Cooperative Researcher</b> (04/2023–Present)<br>
+  Advanced Telecommunications Research Institute International (ATR), Japan<br>
+  Focus: Machine learning for brain imaging<br>
+  Reference: Prof. Dr. Mitsuo Kawato –
+  <a href="mailto:kawato@atr.jp">kawato@atr.jp</a>
+</p>
+
+<p>
+  <b>Associate Researcher</b> (04/2025–03/2026)<br>
+  RIKEN Center for Advanced Intelligence Project, Japan<br>
+  Focus: Machine learning for brain imaging<br>
+  Reference: Prof. Dr. Qibin Zhao –
+  <a href="mailto:qibin.zhao@riken.jp">qibin.zhao@riken.jp</a>
+</p>
+
