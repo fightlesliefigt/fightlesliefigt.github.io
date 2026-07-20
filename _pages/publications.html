@@ -5,32 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<h3>Journal Papers</h3>
+<ul>
+<li><p><a href="https://ieeexplore.ieee.org/document/10960695">EmT: A Novel Transformer for Generalized Cross-subject EEG Emotion Recognition</a> <br />
+<b>Yi Ding</b>, Chengxuan Tong, Shuailei Zhang, Muyun Jiang, Yong Li, Kevin Lim Jun Liang, Cuntai Guan <br />
+<i><b>IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2025. </b></i>[JCR Q1, IF=10.4] <a href="https://ieeexplore.ieee.org/ielx8/5962385/6104215/10960695.pdf?tp=&arnumber=10960695&isnumber=6104215&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzEwOTYwNjk1">[PDF]</a><a href="https://github.com/yi-ding-cs/EmT">[code]</a></p>
+</li>
+</ul>
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
-
-
-
+<ul>
+<li><p><a href="https://ieeexplore.ieee.org/document/10763464">EEG-Deformer: A Dense Convolutional Transformer for Brain-computer Interfaces</a><br />
+<b>Yi Ding</b>, Yong Li, Hao Sun, Rui Liu, Chengxuan Tong, Chenyu Liu, Xinliang Zhou, and Cuntai Guan<br />
+<i><b>IEEE Journal of Biomedical and Health Informatics (J-BHI), 2024 </b></i>[JCR Q1, IF=6.7]<a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10763464">[PDF]</a><a href="https://github.com/yi-ding-cs/EEG-Deformer">[code]</a></p>
+</li>
+</ul>
