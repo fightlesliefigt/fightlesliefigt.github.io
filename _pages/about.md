@@ -11,7 +11,7 @@ Shanglin is a doctoral researcher with [Klaus-Robert Müller](https://scholar.go
 With over three years of experience in machine learning, Shanglin is dedicated to developing modern machine learning techniques for neuroimaging and quantum chemistry, while keeping interests in generic machine learning topics. Shanglin actively collaborates with world-leading labs in machine learning, neural engineering, and molecular dynamics. His work has also been recognized by industry partners.
 
 
-<h4>Key Publications</h4>
+<h2>Key Publications</h2>
 <ul>
 <li><p>
 <a href="https://openreview.net/forum?id=VSn4wLFd2p">EEG-Based Multimodal Learning via Hyperbolic Mixture-of-Curvature Experts</a><br />
@@ -38,7 +38,7 @@ Runhe Zhou, <b>Shanglin Li</b>, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Moto
 </p></li>
 </ul>
 
-<h3>Work Experience</h3>
+<h2>Work Experience</h2>
 
 <p>
   <b>Doctoral Researcher</b> (05/2026–Present)<br>
