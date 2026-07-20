@@ -40,7 +40,8 @@ Runhe Zhou, <b>Shanglin Li</b>, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Moto
 
 <h2>Work Experience</h2>
 
-<p>
+<ul>
+<li><p>
   <b>Doctoral Researcher</b> (05/2026–Present)<br>
   Berlin Institute for the Foundations of Learning and Data, Germany<br>
   Focus: AI for science<br>
@@ -48,15 +49,18 @@ Runhe Zhou, <b>Shanglin Li</b>, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Moto
   <a href="mailto:klaus-robert.mueller@tu-berlin.de">
     klaus-robert.mueller@tu-berlin.de
   </a>
-</p>
+</p></li>
+</ul>
 
-<p>
+<ul>
+<li><p>
   <b>Cooperative Researcher</b> (04/2023–Present)<br>
   Advanced Telecommunications Research Institute International (ATR), Japan<br>
   Focus: Machine learning for brain imaging<br>
   Reference: Prof. Dr. Mitsuo Kawato –
   <a href="mailto:kawato@atr.jp">kawato@atr.jp</a>
-</p>
+</p></li>
+</ul>
 
 <p>
   <b>Associate Researcher</b> (04/2025–03/2026)<br>
