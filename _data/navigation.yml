@@ -11,23 +11,13 @@ main:
   - title: "Publications"
     url: /files/Shanglin_CV.pdf
 
-#   - title: "Talks"
-#     url: /talks/    
+   - title: "Teaching & Mentoring"
+     url: /talks/    
 
-#   - title: "Teaching"
-#     url: /teaching/    
-    
-#   - title: "Portfolio"
-#     url: /portfolio/
-        
-#   - title: "Blog Posts"
-#     url: /year-archive/
+  - title: "Professional Activities"
+    url: /teaching/          
     
   - title: "CV"
     url: https://fightlesliefigt.github.io/files/Shanglin_CV.pdf
     
-#   # - title: "CV"
-#   #   url: /cv-json/
-    
-#   - title: "Guide"
-#     url: /markdown/
+
