@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shanglin Li Personal Page"
+title: "Shanglin Li Homepage"
 author_profile: true
 redirect_from: 
   - /about/
