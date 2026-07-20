@@ -11,6 +11,7 @@ Shanglin is a doctoral researcher with [Klaus-Robert Müller](https://scholar.go
 With over three years of experience in machine learning, Shanglin is dedicated to developing modern machine learning techniques for neuroimaging and quantum chemistry, while keeping interests in generic machine learning topics. Shanglin actively collaborates with world-leading labs in machine learning, neural engineering, and molecular dynamics. 
 
 His research interests include geometric deep learning, multimodal neuroimaging, brain foundation models, machine learning force fields, molecular dynamics, and material discovery.
+
 Researchers in related research fields are welcome to collaborate.
 
 
