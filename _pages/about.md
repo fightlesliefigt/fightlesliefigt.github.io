@@ -19,7 +19,7 @@ Researchers in related research fields are welcome to collaborate.
 <ul>
 <li><p>
 <a href="https://openreview.net/forum?id=VSn4wLFd2p">EEG-Based Multimodal Learning via Hyperbolic Mixture-of-Curvature Experts</a><br />
-Runhe Zhou, <b>Shanglin Li</b>, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Motoaki Kawanabe, Yi Ding, Cuntai Guan<br />
+R Zhou, <b>S Li</b>, G Huang, X Zhou, Q Zhao, M Kawanabe, Y Ding, C Guan<br />
 <i><b>International Conference on Machine Learning (ICML), 2026.</b></i> [Equal contribution]
 </p></li>
 </ul>
@@ -28,7 +28,7 @@ Runhe Zhou, <b>Shanglin Li</b>, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Moto
 <ul>
 <li><p>
 <a href="https://openreview.net/forum?id=CNDNRjpVIL">HEEGNet: Hyperbolic Embeddings for EEG</a><br />
-<b>Shanglin Li</b>, Shiwen Chu, Okan Koc, Yi Ding, Qibin Zhao, Motoaki Kawanabe, Ziheng Chen<br />
+<b>S Li</b>, S Chu, O Koc, Y Ding, Q Zhao, M Kawanabe, Z Chen<br />
 <i><b>International Conference on  Learning Representations (ICLR), 2026. </b></i> 
 </p></li>
 </ul>
@@ -37,7 +37,7 @@ Runhe Zhou, <b>Shanglin Li</b>, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Moto
 <ul>
 <li><p>
 <a href="https://openreview.net/forum?id=CoQw1dXtGb">SPDIM: Source-free Unsupervised Conditional and Label Shift Adaptation in EEG</a><br />
-<b>Shanglin Li</b>,  Motoaki Kawanabe, Reinmar Kobler<br />
+<b>S Li</b>,  M Kawanabe, R Kobler<br />
 <i><b>International Conference on  Learning Representations (ICLR), 2025.</b></i> 
 </p></li>
 </ul>
