@@ -19,7 +19,7 @@ Researchers in related research fields are welcome to collaborate.
 <ul>
 <li><p>
 <a href="https://openreview.net/forum?id=VSn4wLFd2p">EEG-Based Multimodal Learning via Hyperbolic Mixture-of-Curvature Experts</a><br />
-R Zhou, <b>S Li</b>, G Huang, X Zhou, Q Zhao, M Kawanabe, Y Ding, C Guan<br />
+R Zhou*, <b>S Li*</b>, G Huang, X Zhou, Q Zhao, M Kawanabe, Y Ding, C Guan<br />
 <i><b>International Conference on Machine Learning (ICML), 2026.</b></i> [Equal contribution]
 </p></li>
 </ul>
