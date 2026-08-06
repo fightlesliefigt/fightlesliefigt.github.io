@@ -19,7 +19,7 @@ Researchers in related research fields are welcome to collaborate.
 <ul>
 <li><p>
 <a href="https://openreview.net/forum?id=VSn4wLFd2p">EEG-Based Multimodal Learning via Hyperbolic Mixture-of-Curvature Experts</a><br />
-R Zhou<sup>†</sup>, <b><u>S Li</u><sup>†</sup></b>, G Huang, X Zhou, Q Zhao, M Kawanabe, Y Ding, C Guan<br />
+R Zhou<sup>†</sup>, <b>S Li<<sup>†</sup></b>, G Huang, X Zhou, Q Zhao, M Kawanabe, Y Ding, C Guan<br />
 <i><b>International Conference on Machine Learning (ICML), 2026. 
 <br />
 Equal contribution.</b></i>
@@ -30,7 +30,7 @@ Equal contribution.</b></i>
 <ul>
 <li><p>
 <a href="https://openreview.net/forum?id=CNDNRjpVIL">HEEGNet: Hyperbolic Embeddings for EEG</a><br />
-<b><u>S Li</u></b>, S Chu, O Koc, Y Ding, Q Zhao, M Kawanabe, Z Chen<br />
+<b>S Li</b>, S Chu, O Koc, Y Ding, Q Zhao, M Kawanabe, Z Chen<br />
 <i><b>International Conference on  Learning Representations (ICLR), 2026. </b></i> 
 </p></li>
 </ul>
