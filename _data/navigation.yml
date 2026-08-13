@@ -8,10 +8,11 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Selected Publications"
+  - title: "Neuroimaging Publications"
     url: /publications/
 
-
+  - title: "Generic ML Publications"
+    url: /talks/
     
   - title: "Professional Activities"
     url: /portfolio/
