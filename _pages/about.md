@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 <u>Shanglin Li</u> is a doctoral researcher with [Klaus-Robert Müller](https://scholar.google.com/citations?user=jplQac8AAAAJ) at the Technical University of Berlin and a Research Associate with [Mitsuo Kawato](https://scholar.google.com/citations?user=lc7OkdAAAAAJ) at ATR Japan.
-Shanglin is dedicated to developing modern machine learning techniques for neuroimaging and quantum chemistry, while keeping interests in generic machine learning topics. Shanglin actively collaborates with world-leading labs in machine learning, neural engineering, and molecular dynamics. 
+Shanglin is dedicated to developing modern machine learning techniques for neuroimaging, while maintaining interests in generic machine learning topics. 
+Shanglin actively collaborates with world-leading labs in machine learning and neural engineering. 
 
-Shanglin's research interests include geometric deep learning, multimodal neuroimaging, brain foundation models, machine learning force fields, molecular dynamics, and material discovery.
+Shanglin's research interests include geometric deep learning, transfer learning, multimodal neuroimaging, and brain foundation models.
 
 Researchers in related research fields are welcome to collaborate.
 
